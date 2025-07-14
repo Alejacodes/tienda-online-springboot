@@ -1,0 +1,14 @@
+com\tienda\config\WebSecurityConfig.class
+com\tienda\TiendaApplication.class
+com\tienda\controller\AuthController.class
+com\tienda\model\Usuario.class
+com\tienda\controller\UsuarioController.class
+com\tienda\repository\ProductoRepository.class
+com\tienda\controller\CategoriaController.class
+com\tienda\model\Categoria.class
+com\tienda\security\UsuarioDetails.class
+com\tienda\controller\ProductoController.class
+com\tienda\repository\UsuarioRepository.class
+com\tienda\security\UserDetailsServiceImpl.class
+com\tienda\repository\CategoriaRepository.class
+com\tienda\model\Producto.class
